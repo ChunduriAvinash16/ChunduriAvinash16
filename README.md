@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> , I'm Avinash!
 
 <!--
 **ChunduriAvinash16/ChunduriAvinash16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ChunduriAvinash16/ChunduriAvinash16) 
